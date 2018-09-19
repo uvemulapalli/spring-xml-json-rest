@@ -1,0 +1,10 @@
+/.metadata
+/target/
+/.settings
+/.apt_generated
+/.classpath
+/.factorypath
+/.project
+/logs
+/.git
+/bin
